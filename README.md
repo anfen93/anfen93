@@ -6,6 +6,12 @@ I build and maintain web applications, mobile products and practical AI features
 
 ## Selected work
 
+### [Preflight Scout](https://preflightscout.com/)
+
+An open-source tool I built to check pull requests before release. It starts from the diff, proposes focused checks, runs the browser checks you approve, and saves the evidence. It is currently in public alpha.
+
+[Website](https://preflightscout.com/) · [Source](https://github.com/fenutech/preflight-scout)
+
 ### [Mappu](https://www.mappu.ai/)
 
 A Fenutech product for planning trips, exploring places on a map and listening to audio guides. I handle product, design, web and mobile development, backend, releases and ongoing maintenance.
