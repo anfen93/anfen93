@@ -2,7 +2,7 @@
 
 **Senior product/backend engineer building AI-enabled software that has to work in production.**
 
-Based in Trieste, Italy. Open to fully remote roles worldwide or relocation to the United States with visa sponsorship.
+Based in Trieste, Italy. Open to fully remote roles worldwide.
 
 I build and operate complete products across backend services, cloud infrastructure, applied AI, web, and mobile. I use coding agents extensively, while keeping responsibility for architecture, constraints, review, debugging, tests, security, reliability, and production outcomes.
 
